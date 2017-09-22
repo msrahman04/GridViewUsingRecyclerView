@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="4511631170bb143509d2bcb09a16d34514105184">
+        sha1="c4b6320a8bdc3750ae91c1f739a905897e3a9935">
         <dex dex="F:\Android\GridListUsingRecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9c63ec0f10172135c5972de86ed91e28eb18ef36\classes.dex" />
     </item>
 
